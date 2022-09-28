@@ -1,0 +1,8 @@
+C:\Project\CharacterWord\CharacterWord\bin\Debug\CharacterWord.exe.config
+C:\Project\CharacterWord\CharacterWord\bin\Debug\CharacterWord.exe
+C:\Project\CharacterWord\CharacterWord\bin\Debug\CharacterWord.pdb
+C:\Project\CharacterWord\CharacterWord\obj\Debug\CharacterWord.csproj.AssemblyReference.cache
+C:\Project\CharacterWord\CharacterWord\obj\Debug\CharacterWord.csproj.SuggestedBindingRedirects.cache
+C:\Project\CharacterWord\CharacterWord\obj\Debug\CharacterWord.csproj.CoreCompileInputs.cache
+C:\Project\CharacterWord\CharacterWord\obj\Debug\CharacterWord.exe
+C:\Project\CharacterWord\CharacterWord\obj\Debug\CharacterWord.pdb
